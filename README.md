@@ -16,7 +16,7 @@ GITHUB_CLIENT_SECRET=YOUR_CLIENT_SECRET_HERE
 
 Build and run:
 
-```go
+```bash
 go build
 ./go-oauth2-client-short
 ```
